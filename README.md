@@ -71,7 +71,7 @@
   - [3D Vision](#3d-vision)
   - [Sim2real and Real2sim](#sim2real-and-real2sim)
 - [📖 ICRA2025](#icra2025)
-- [📖 ICLR2026](ICLR/ICLR2026.md)
+- [📖 ICLR2026](#iclr2026)
   - [Vision-Language-Action Models](#vision-language-action-models-1)
   - [Vision-Language-Navigation Models](#vision-language-navigation-models)
   - [World Models](#world-models)
