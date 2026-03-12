@@ -13,6 +13,8 @@
 
 [11/30/2025] We are updating Embodied AI papers accepted by NeuIPS2025!
 
+[03/12/2026] We are updating Embodied AI papers accepted by **ICLR2026**! ([📖 ICLR2026](ICLR/ICLR2026.md))
+
 ## 📖 Paper List
 
 - [📖 NeuIPS2025](#neuips2025)
@@ -69,7 +71,7 @@
   - [3D Vision](#3d-vision)
   - [Sim2real and Real2sim](#sim2real-and-real2sim)
 - [📖 ICRA2025](#icra2025)
-- [📖 ICLR2026](#iclr2026)
+- [📖 ICLR2026](ICLR/ICLR2026.md)
   - [Vision-Language-Action Models](#vision-language-action-models-1)
   - [Vision-Language-Navigation Models](#vision-language-navigation-models)
   - [World Models](#world-models)
@@ -575,6 +577,9 @@
 
 
 # ICLR2026
+
+[📄 Full List](ICLR/ICLR2026.md) | [📊 Statistics](ICLR/ICLR2026.md#statistics)
+
 ## Vision-Language-Action Models
 
 - Scaling up Memory for Robotic Control via Experience Retrieval [Paper](https://openreview.net/forum?id=1dH4ARGdwD)
