@@ -70,6 +70,19 @@
   - [Sim2real and Real2sim](#sim2real-and-real2sim)
 - [📖 ICRA2025](#icra2025)
 - [📖 ICLR2026](#iclr2026)
+  - [Vision-Language-Action Models](#vision-language-action-models-1)
+  - [Vision-Language-Navigation Models](#vision-language-navigation-models)
+  - [World Models](#world-models)
+  - [Planning and Reasoning](#planning-and-reasoning-1)
+  - [Navigation](#navigation)
+  - [Humanoid](#humanoid)
+  - [3D Vision](#3d-vision-1)
+  - [Policy](#policy)
+  - [Dexterous Manipulation](#dexterous-manipulation)
+  - [Tactile](#tactile)
+  - [Sim2real and Real2sim](#sim2real-and-real2sim-1)
+  - [Benchmark and Dataset](#benchmark-and-dataset)
+  - [Other](#other)
 
 # NeuIPS2025
 ## Vision-Language-Action Model
