@@ -578,7 +578,7 @@
 
 # ICLR2026
 
-[📄 Full List](ICLR/ICLR2026.md) | [📊 Statistics](ICLR/ICLR2026.md#statistics)
+[📄 Full List](ICLR/ICLR2026.md)
 
 ## Vision-Language-Action Models
 
