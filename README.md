@@ -13,7 +13,7 @@
 
 [11/30/2025] We are updating Embodied AI papers accepted by NeuIPS2025!
 
-[03/12/2026] We are updating Embodied AI papers accepted by **ICLR2026**! ([📖 ICLR2026](ICLR/ICLR2026.md))
+[03/12/2026] We are updating Embodied AI papers accepted by ICLR2026! ([📖 ICLR2026](ICLR/ICLR2026.md))
 
 ## 📖 Paper List
 
